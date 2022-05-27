@@ -1,0 +1,63 @@
+[
+	[
+		{
+			"speaker" : "firstWitch",
+			"dialog" : "When shall we three meet again, in thunder, lightning, or in rain?",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "secondWitch",
+			"dialog" : "When the hurlyburly's done, When the battle's lost and won.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "thirdWitch",
+			"dialog" : "That will be ere the set of sun.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "firstWitch",
+			"dialog" : "Where the place?",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "secondWitch",
+			"dialog" : "Upon the heath.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "thirdWitch",
+			"dialog" : "There to meet with Macbeth.",
+			"newSpeaker" : "true"
+		}
+	],
+	[
+		{
+			"speaker" : "duncan",
+			"dialog" : "What bloody man is that? He can report, As seemeth by his plight, of the revolt the newest state.",
+			"newSpeaker" : "true"
+		},
+		{
+			"speaker" : "malcolm",
+			"dialog" : "This is the sergeant Who like a good and hardy soldier fought 'Gainst my captivity. Hail, brave friend! Say to the king the knowledge of the broil As thou didst leave it.",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Doubtful it stood; As two spent swimmers, that do cling together And choke their art. The merciless Macdonwald--",
+			"newSpeaker" : "true"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Worthy to be a rebel, for to that The multiplying villanies of nature Do swarm upon him--from the western isles"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Of kerns and gallowglasses is supplied; And fortune, on his damned quarrel smiling"
+		},
+		{	
+			"speaker" : "sergeant",
+			"dialog" : "Show'd like a rebel's whore: but all's too weak: For brave Macbeth--well he deserves that name--"
+		}
+	]
+]
